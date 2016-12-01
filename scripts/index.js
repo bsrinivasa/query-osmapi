@@ -1,9 +1,9 @@
 /*
     Convert CSV to JSON:
-       csv2json foo.csv out.json
-       Edit the JSON_PATH in this file to point to your json file.
+       csv2json input_file_name.csv output_file_name.json
+       
        Run this with:
-           node index.js > output.geojson
+           node index.js input_file.json output_file.geojson
 */
 
 var request = require('request');
