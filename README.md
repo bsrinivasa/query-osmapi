@@ -2,7 +2,7 @@
 
 #### Acknowledgements: [@batpad](https://github.com/batpad) [@planemad](https://github.com/planemad)
 
-# Query OSM API
+# Query OSM API (beta - testing)
 Silly small package that takes a CSV file with `node_osm_id`, `way_osm_id` or `relation_osm_id` references to OpenStreetMap features and returns a valid GeoJSON.
 
 Currently the script uses the osm_id and osm_type and queries for:
