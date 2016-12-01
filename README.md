@@ -1,3 +1,6 @@
+Forked and built over [resolve-osm](https://github.com/batpad/resolve-osm) tool.
+Acknowledgements: @batpad @planemad
+
 # Query OSM API
 Silly small package that takes a CSV file with `node_osm_id`, `way_osm_id` or `relation_osm_id` references to OpenStreetMap features and returns a valid GeoJSON.
 
