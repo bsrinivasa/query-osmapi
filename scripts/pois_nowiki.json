@@ -1,0 +1,2043 @@
+[
+{"osm_id":"1034639351","osm_type":"node","type":"Hotel","name_en":"Bulgari Hotels and Resorts Bali","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"119556418","osm_type":"node","type":"Hotel","name_en":"Grand Nikko Bali","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4177911950","osm_type":"node","type":"Hotel","name_en":"InterContinental Bali Resort","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3744065623","osm_type":"node","type":"Hotel","name_en":"Liberty Dive Resort","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4177488289","osm_type":"node","type":"Hotel","name_en":"POP Hotel Kuta Beach","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"489583809","osm_type":"node","type":"Hotel","name_en":"Ramada Resort Benoa Bali","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4177857642","osm_type":"node","type":"Hotel","name_en":"RIMBA Jimbaran Bali","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4247996630","osm_type":"node","type":"Hotel","name_en":"Sadara Boutique Beach Resort","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4177840107","osm_type":"node","type":"Hotel","name_en":"Sanur Paradise Plaza Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"794606886","osm_type":"node","type":"Hotel","name_en":"Sanur Paradise Plaza Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4258561789","osm_type":"node","type":"Hotel","name_en":"Sun Island Hotel Kuta","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"132366910","osm_type":"way","type":"Hotel","name_en":"The Laguna, a Luxury Collection Resort & Spa, Nusa Dua, Bali","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"128438467","osm_type":"node","type":"Hotel","name_en":"The Laguna, a Luxury Collection Resort & Spa, Nusa Dua, Bali","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"132240625","osm_type":"way","type":"Hotel","name_en":"The Villas at AYANA Resort and Spa Bali","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4177727592","osm_type":"node","type":"Hotel","name_en":"The Villas at AYANA Resort and Spa Bali","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"261089614","osm_type":"way","type":"Hotel","name_en":"The Vira Bali Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4247969150","osm_type":"node","type":"Hotel","name_en":"The Vira Bali Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4182516134","osm_type":"node","type":"Hotel","name_en":"The Westin Resort Nusa Dua, Bali","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"132366899","osm_type":"way","type":"Restaurant","name_en":"Arwana Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"317207545","osm_type":"node","type":"Restaurant","name_en":"Bebek Bengil (Dirty Duck Diner)","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1751873270","osm_type":"node","type":"Restaurant","name_en":"Cafe bali","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4424538107","osm_type":"node","type":"Restaurant","name_en":"Café Des Artistes","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4196332489","osm_type":"node","type":"Restaurant","name_en":"Hanging gardens Ubud","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4358724690","osm_type":"node","type":"Restaurant","name_en":"Kuta Night Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4178043239","osm_type":"node","type":"Restaurant","name_en":"Laota","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4274714891","osm_type":"node","type":"Restaurant","name_en":"Locavore","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1817538556","osm_type":"node","type":"Restaurant","name_en":"Mama San","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3729596372","osm_type":"node","type":"Restaurant","name_en":"Revolver","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1977779907","osm_type":"node","type":"Restaurant","name_en":"The Lakeview Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4401055968","osm_type":"node","type":"Restaurant","name_en":"Three Monkeys","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"925101531","osm_type":"node","type":"Restaurant","name_en":"Warung Made Becik","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"25159103","osm_type":"way","type":"Shopping","name_en":"bali collection","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4177815168","osm_type":"node","type":"Shopping","name_en":"bali collection","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"361220496","osm_type":"way","type":"Shopping","name_en":"Beachwalk shopping mall","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"80706302","osm_type":"way","type":"Shopping","name_en":"Carrefour Kuta","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4407995228","osm_type":"node","type":"Shopping","name_en":"denpasar junction","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4423178580","osm_type":"node","type":"Shopping","name_en":"DFS Galleria Bali","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"130633772","osm_type":"way","type":"Shopping","name_en":"Discovery Shopping Mall","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4180116589","osm_type":"node","type":"Shopping","name_en":"Discovery Shopping Mall","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"25120719","osm_type":"way","type":"Shopping","name_en":"Jalan Petitenget","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"166735156","osm_type":"way","type":"Shopping","name_en":"Jalan Seminyak","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4414250726","osm_type":"node","type":"Shopping","name_en":"Krisna Oleh Oleh Khas Bali","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"260884085","osm_type":"way","type":"Shopping","name_en":"Lippo mall","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3173930847","osm_type":"node","type":"Shopping","name_en":"Matahari","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"391619140","osm_type":"way","type":"Shopping","name_en":"Pura Tirta Empul Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4179897521","osm_type":"node","type":"Shopping","name_en":"Seminyak Square","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4376967778","osm_type":"node","type":"Shopping","name_en":"Tegallalang Rice Terraces Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2385574277","osm_type":"node","type":"Shopping","name_en":"Ubud","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2485807590","osm_type":"node","type":"Tourism","name_en":"Alun-Alun Puputan","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2483312803","osm_type":"node","type":"Tourism","name_en":"Bali Shell Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1456270342","osm_type":"node","type":"Tourism","name_en":"Batuan Temple","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1308670079","osm_type":"node","type":"Tourism","name_en":"Batuan Village","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1308721836","osm_type":"node","type":"Tourism","name_en":"Batubulan Village","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4436155291","osm_type":"node","type":"Tourism","name_en":"Bluepoint","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"122741626","osm_type":"way","type":"Tourism","name_en":"Borobudur Temple Compunds","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"428805386","osm_type":"node","type":"Tourism","name_en":"botanic garden","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4100128689","osm_type":"node","type":"Tourism","name_en":"Campuhan Ridge Walk","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2154599548","osm_type":"node","type":"Tourism","name_en":"Devil's Tear","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1374638551","osm_type":"node","type":"Tourism","name_en":"Elephant Safari Park","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"428804451","osm_type":"node","type":"Tourism","name_en":"Gitgit Waterfall","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"386307269","osm_type":"way","type":"Tourism","name_en":"Jimbaran Fish Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3891185616","osm_type":"node","type":"Tourism","name_en":"Kintamani Volcano","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"292801401","osm_type":"node","type":"Tourism","name_en":"Kintamani Volcano","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"516165315","osm_type":"node","type":"Tourism","name_en":"Lembongan","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3849735168","osm_type":"node","type":"Tourism","name_en":"Lombok","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"374506947","osm_type":"way","type":"Tourism","name_en":"Monumen Perjuangan Rakyat Bali","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"986319563","osm_type":"node","type":"Tourism","name_en":"Monumen Yesus Memberkati","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"273955920","osm_type":"node","type":"Tourism","name_en":"Padang Bai","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"457417499","osm_type":"node","type":"Tourism","name_en":"Pemuteran Bay","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1768296160","osm_type":"node","type":"Tourism","name_en":"Pura Luhur Uluwatu","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1768296160","osm_type":"node","type":"Tourism","name_en":"Pura Luhur Uluwatu","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"238194818","osm_type":"way","type":"Tourism","name_en":"Pura Saraswati","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"260611610","osm_type":"way","type":"Tourism","name_en":"Seminyak Beach","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"989887758","osm_type":"node","type":"Tourism","name_en":"Stone Pillar","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4423187320","osm_type":"node","type":"Tourism","name_en":"Taman Air Spa Bali","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"317207544","osm_type":"node","type":"Tourism","name_en":"Temple of the Meeting of the Three","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"319082622","osm_type":"way","type":"Hotel","name_en":"Aetas Lumpini","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"194876474","osm_type":"way","type":"Hotel","name_en":"Amari Don Muang Airport Bangkok Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"331281045","osm_type":"way","type":"Hotel","name_en":"Bangkok Cha-Da Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"271102924","osm_type":"way","type":"Hotel","name_en":"Best Western Premier Sukhumvit","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"157522277","osm_type":"way","type":"Hotel","name_en":"Grande Centre Point Ratchadamri Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4355715911","osm_type":"node","type":"Hotel","name_en":"Holiday Inn Express Bangkok Siam","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"333177956","osm_type":"way","type":"Hotel","name_en":"Holiday Inn Express Bangkok Siam","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"393471476","osm_type":"way","type":"Hotel","name_en":"Holiday Inn Express Bangkok Siam","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4283507589","osm_type":"node","type":"Hotel","name_en":"Hotel Indigo Bangkok Wireless Road","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"151982337","osm_type":"way","type":"Hotel","name_en":"Hotel Novotel Bangkok Impact","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"230903173","osm_type":"way","type":"Hotel","name_en":"Pullman Bangkok King Power","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"176195931","osm_type":"way","type":"Hotel","name_en":"S31 Sukhumvit Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2310928058","osm_type":"node","type":"Hotel","name_en":"Siam Swana Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"369335001","osm_type":"way","type":"Hotel","name_en":"Spb Paradise Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4460300490","osm_type":"node","type":"Hotel","name_en":"The Krungkasem Srikrung Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3155881803","osm_type":"node","type":"Hotel","name_en":"True Siam Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"450762925","osm_type":"way","type":"Hotel","name_en":"Unico Premier MetroLink","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"261527060","osm_type":"way","type":"Hotel","name_en":"W Bangkok","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"261487463","osm_type":"way","type":"Restaurant","name_en":"blue elephant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3096836191","osm_type":"node","type":"Restaurant","name_en":"Canton House","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3096836170","osm_type":"node","type":"Restaurant","name_en":"Chiang Kii","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4481407698","osm_type":"node","type":"Restaurant","name_en":"Kai Thawt Jay Kii (Soi Polo Fried Chicken)","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"162173507","osm_type":"way","type":"Restaurant","name_en":"Na Phra Lan","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2398070812","osm_type":"node","type":"Restaurant","name_en":"naj esuisite thai cuisine","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4134821820","osm_type":"node","type":"Restaurant","name_en":"Napa on 26","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3455634366","osm_type":"node","type":"Restaurant","name_en":"Pizzeria Bella Napoli","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"358876587","osm_type":"node","type":"Restaurant","name_en":"Sirocco&Sky Bar","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3903083617","osm_type":"node","type":"Restaurant","name_en":"Sky High","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4219849289","osm_type":"node","type":"Restaurant","name_en":"Somboon Seafood","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"27767517","osm_type":"way","type":"Restaurant","name_en":"The Seafood Bar","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1639149614","osm_type":"node","type":"Restaurant","name_en":"Vertigo Restaurant & Moon Bar","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"25787548","osm_type":"way","type":"Shopping","name_en":"Amarin plaza","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"25506367","osm_type":"way","type":"Shopping","name_en":"central chitlom department store","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"157482067","osm_type":"way","type":"Shopping","name_en":"Central World Plaza","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"268632501","osm_type":"node","type":"Shopping","name_en":"Damnoen Saduak Floating Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3278158561","osm_type":"node","type":"Shopping","name_en":"empire tailors","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"157515536","osm_type":"way","type":"Shopping","name_en":"Gaysorn Plaza","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"200980891","osm_type":"way","type":"Shopping","name_en":"Jim Thompson Thai Silk","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"230903171","osm_type":"way","type":"Shopping","name_en":"King Power Duty Free Shop（Bangkok Downtown）","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4410789191","osm_type":"node","type":"Shopping","name_en":"King Power Suvarnabhumi","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"342182317","osm_type":"way","type":"Shopping","name_en":"River City Complex","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4157428192","osm_type":"node","type":"Shopping","name_en":"Sampeng Lane Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2203974487","osm_type":"node","type":"Shopping","name_en":"Sukhumvit","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1969566860","osm_type":"node","type":"Shopping","name_en":"Tesco Lotus","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"31141613","osm_type":"way","type":"Shopping","name_en":"The Platinum Fashion Mall","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2074694270","osm_type":"node","type":"Tourism","name_en":"Asiatique The Riverfront","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"218136534","osm_type":"way","type":"Tourism","name_en":"Bang Pa-in Royal Palace","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"124857541","osm_type":"way","type":"Tourism","name_en":"Bangkok Dream World","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"25031221","osm_type":"way","type":"Tourism","name_en":"Bridge Over The River Kwai","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4357829394","osm_type":"node","type":"Tourism","name_en":"Health Land Asoke","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"324194884","osm_type":"way","type":"Tourism","name_en":"Health Land Ekamai","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"205714164","osm_type":"way","type":"Tourism","name_en":"Maeklong Railway Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"248978431","osm_type":"way","type":"Tourism","name_en":"Museum of Contemporary Art","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"205637198","osm_type":"way","type":"Tourism","name_en":"Queen's Gallery","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"33042465","osm_type":"way","type":"Tourism","name_en":"Rama IX Royal Park","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1225375252","osm_type":"node","type":"Tourism","name_en":"Samphram Elephant Ground & Zoo","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2156859030","osm_type":"node","type":"Tourism","name_en":"siam park city","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"25701345","osm_type":"way","type":"Tourism","name_en":"Supachalasai National Stadium","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"166114555","osm_type":"way","type":"Tourism","name_en":"The Ancient City","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"82539401","osm_type":"way","type":"Tourism","name_en":"The Chakri Group","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1641043364","osm_type":"node","type":"Tourism","name_en":"the erawan museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3977891357","osm_type":"node","type":"Tourism","name_en":"The Grand Palace","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1572033357","osm_type":"node","type":"Tourism","name_en":"Wat Bang kung","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"39885336","osm_type":"way","type":"Tourism","name_en":"Wat Khaek","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"333227704","osm_type":"way","type":"Tourism","name_en":"wat rakhang","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"228099647","osm_type":"way","type":"Tourism","name_en":"Wat Ratchaburana","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1030346574","osm_type":"node","type":"Hotel","name_en":"Anantara Chiang Mai Resort & Spa","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3416932285","osm_type":"node","type":"Hotel","name_en":"Deng Ba Hostel Chiangmai","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"254597955","osm_type":"way","type":"Hotel","name_en":"Eastin Tan Hotel Chiang Mai","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"305818862","osm_type":"way","type":"Hotel","name_en":"Four Seasons Resort Chiang Mai","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3417181187","osm_type":"node","type":"Hotel","name_en":"Galare Guest House","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3317919566","osm_type":"node","type":"Hotel","name_en":"Galato Coffee Hostel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3385506531","osm_type":"node","type":"Hotel","name_en":"Gong Kaew Huen Kum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"233735956","osm_type":"way","type":"Hotel","name_en":"Holiday Garden Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3843126640","osm_type":"node","type":"Hotel","name_en":"Kikie's House","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"220976892","osm_type":"way","type":"Hotel","name_en":"Le Méridien Chiang Mai","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3134799182","osm_type":"node","type":"Hotel","name_en":"Santitham Guest House","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"440038015","osm_type":"way","type":"Hotel","name_en":"Shangri - La Hotel, Chiang Mai","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"319812106","osm_type":"way","type":"Hotel","name_en":"Sleep Box Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2478592340","osm_type":"node","type":"Hotel","name_en":"Sukantara Cascade Resort","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2648443313","osm_type":"node","type":"Restaurant","name_en":"Antique House","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2468510964","osm_type":"node","type":"Restaurant","name_en":"Bake & Bite","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1127348098","osm_type":"node","type":"Restaurant","name_en":"Bake & Bite","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"336236481","osm_type":"node","type":"Restaurant","name_en":"Black Canyon Coffee","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"907784576","osm_type":"node","type":"Restaurant","name_en":"Black Canyon Coffee","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1474872898","osm_type":"node","type":"Restaurant","name_en":"Black Canyon Coffee","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2341954681","osm_type":"node","type":"Restaurant","name_en":"Black Canyon Coffee","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"418044600","osm_type":"way","type":"Restaurant","name_en":"Cafe de Nimman","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4189548189","osm_type":"node","type":"Restaurant","name_en":"Da's Bakery","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1616475018","osm_type":"node","type":"Restaurant","name_en":"Deck 1, Rarinjinda Wellness Spa Resort","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3944284363","osm_type":"node","type":"Restaurant","name_en":"Funan Garden","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3456825435","osm_type":"node","type":"Restaurant","name_en":"Funky Dog Cafe","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"907695425","osm_type":"node","type":"Restaurant","name_en":"Houn Soontaree Vechanont","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1628665600","osm_type":"node","type":"Restaurant","name_en":"Huen Phen","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3211600661","osm_type":"node","type":"Restaurant","name_en":"Khaomao Khaofang Restaurants","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"367745512","osm_type":"way","type":"Restaurant","name_en":"Old Chiang Mai Cultural Centre","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"336236936","osm_type":"node","type":"Restaurant","name_en":"Pulcinella da Stefano","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2125935593","osm_type":"node","type":"Restaurant","name_en":"Raming Tea House","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1057660774","osm_type":"node","type":"Restaurant","name_en":"River Side Bar & Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"336236396","osm_type":"node","type":"Restaurant","name_en":"Sailomjoy Resturant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3421308695","osm_type":"node","type":"Restaurant","name_en":"SUMO Sushi","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1617076549","osm_type":"node","type":"Restaurant","name_en":"Taste From Heaven","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1974678186","osm_type":"node","type":"Shopping","name_en":"Adorn with Studio Naenna","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1641043320","osm_type":"node","type":"Shopping","name_en":"Baan Tawai","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"233741339","osm_type":"way","type":"Shopping","name_en":"Bann Thawai?","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2117270441","osm_type":"node","type":"Shopping","name_en":"Big C","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3107122236","osm_type":"node","type":"Shopping","name_en":"Big C","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3490774894","osm_type":"node","type":"Shopping","name_en":"Big C","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"77088773","osm_type":"way","type":"Shopping","name_en":"Big C","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"189469591","osm_type":"way","type":"Shopping","name_en":"Big C","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"384456229","osm_type":"way","type":"Shopping","name_en":"Big C","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"444091640","osm_type":"way","type":"Shopping","name_en":"Big C","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"58002192","osm_type":"way","type":"Shopping","name_en":"Big C","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"892755491","osm_type":"node","type":"Shopping","name_en":"Boots","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"87710118","osm_type":"way","type":"Shopping","name_en":"Central Airport Plaza","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"317626934","osm_type":"way","type":"Shopping","name_en":"Central Festival","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"254011801","osm_type":"way","type":"Shopping","name_en":"Central Festival","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"5376193","osm_type":"relation","type":"Shopping","name_en":"Kad Suan Kaew Shopping Centre","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"249154472","osm_type":"way","type":"Shopping","name_en":"MAYA Lifestyle Shopping Center","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"342886913","osm_type":"way","type":"Shopping","name_en":"Nimmana Haeminda Road","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"442657700","osm_type":"node","type":"Shopping","name_en":"Rimping Super Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"335541194","osm_type":"way","type":"Shopping","name_en":"Think Park","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1584310003","osm_type":"node","type":"Shopping","name_en":"Vila Cini","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"89039067","osm_type":"way","type":"Shopping","name_en":"Warorot Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"24029209","osm_type":"way","type":"Tourism","name_en":"Ang Kaew","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"344098405","osm_type":"way","type":"Tourism","name_en":"Bai Orchid and Butterfly Farm","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4430138378","osm_type":"node","type":"Tourism","name_en":"Chiang Mai Gate","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"297682420","osm_type":"way","type":"Tourism","name_en":"Chiang Mai University Art Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"5944548","osm_type":"relation","type":"Tourism","name_en":"Doi Suthep","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2488990970","osm_type":"node","type":"Tourism","name_en":"Flight of the Gibbon","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1138705995","osm_type":"node","type":"Tourism","name_en":"Green Bamboo Massage","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"302732566","osm_type":"way","type":"Tourism","name_en":"Hmong Village","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"22375760","osm_type":"way","type":"Tourism","name_en":"Huay Tung Tao Lake","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1595548120","osm_type":"node","type":"Tourism","name_en":"Kruba Srivichai Monument","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1076662876","osm_type":"node","type":"Tourism","name_en":"Let's Relax","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"24039333","osm_type":"way","type":"Tourism","name_en":"Mae Ngat Dam","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"375794696","osm_type":"way","type":"Tourism","name_en":"Maetang Elephant Camp","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"256144284","osm_type":"way","type":"Tourism","name_en":"Mon Jam","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2581514287","osm_type":"node","type":"Tourism","name_en":"Pai","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2300193207","osm_type":"node","type":"Tourism","name_en":"Pha Chor","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4307452590","osm_type":"node","type":"Tourism","name_en":"Ploen Ruedee Night Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"186782433","osm_type":"way","type":"Tourism","name_en":"Royal Flora Ratchaphruek","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"330909787","osm_type":"way","type":"Tourism","name_en":"Tiger Kingdom","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"320601922","osm_type":"way","type":"Tourism","name_en":"Wat Fon Soi","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1211677610","osm_type":"node","type":"Tourism","name_en":"Wat Ketkaram","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"352321202","osm_type":"way","type":"Tourism","name_en":"Wat Mahawan","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"250690123","osm_type":"way","type":"Tourism","name_en":"Wat Monthian","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"243018378","osm_type":"way","type":"Tourism","name_en":"Wat Phan Tao","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3945388644","osm_type":"node","type":"Tourism","name_en":"Wat Phra That Doi Suthep","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"309886989","osm_type":"way","type":"Tourism","name_en":"Wat Sisuphan","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"309886989","osm_type":"way","type":"Tourism","name_en":"Wat Srisuphan","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4350066707","osm_type":"node","type":"Tourism","name_en":"Wiang Kum Kam","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"973961107","osm_type":"node","type":"Hotel","name_en":"Boss Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"708695656","osm_type":"node","type":"Hotel","name_en":"Camellia 5 Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4318026789","osm_type":"node","type":"Hotel","name_en":"Camellia 5 Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2859940473","osm_type":"node","type":"Hotel","name_en":"Flamingo Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"321329256","osm_type":"way","type":"Hotel","name_en":"InterContinental Hanoi Westlake","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"977668026","osm_type":"node","type":"Hotel","name_en":"Nam Hai hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"37933426","osm_type":"way","type":"Hotel","name_en":"Sofitel Legend Metropole Hanoi","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"310727632","osm_type":"node","type":"Restaurant","name_en":"Banh tom Ho Tay","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4485140196","osm_type":"node","type":"Restaurant","name_en":"Cha Ca La Vong","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4417959389","osm_type":"node","type":"Restaurant","name_en":"Cha Ca La Vong","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4358622593","osm_type":"node","type":"Restaurant","name_en":"Food Shop 45","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4327534896","osm_type":"node","type":"Restaurant","name_en":"Noodle & roll Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4335023597","osm_type":"node","type":"Restaurant","name_en":"Noodle & roll Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4226771601","osm_type":"node","type":"Restaurant","name_en":"Pho Bat Dan Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"721836715","osm_type":"node","type":"Restaurant","name_en":"Quan An Ngon Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3496893646","osm_type":"node","type":"Restaurant","name_en":"Quan An Ngon Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"443000681","osm_type":"node","type":"Restaurant","name_en":"SenTay Ho Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4428977390","osm_type":"node","type":"Restaurant","name_en":"Song Huong - Traditional Hue Food","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4210706604","osm_type":"node","type":"Restaurant","name_en":"Xoi Yen Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4285825592","osm_type":"node","type":"Shopping","name_en":"Bát Tràng","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"120409031","osm_type":"way","type":"Shopping","name_en":"Big C Hanoi","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4489385889","osm_type":"node","type":"Shopping","name_en":"Night Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"399558867","osm_type":"way","type":"Shopping","name_en":"Times City","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4171931890","osm_type":"node","type":"Shopping","name_en":"Vincom Mega Mall Royal City","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"442970062","osm_type":"node","type":"Tourism","name_en":"Ambassadors' Pagoda","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"718495525","osm_type":"node","type":"Tourism","name_en":"Army Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"445345252","osm_type":"node","type":"Tourism","name_en":"Bach Ma Temple","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"445345252","osm_type":"node","type":"Tourism","name_en":"Bach Ma Temple","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"207178319","osm_type":"way","type":"Tourism","name_en":"Botanical Gardens","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"446043493","osm_type":"node","type":"Tourism","name_en":"Botanical Gardens","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"220302249","osm_type":"way","type":"Tourism","name_en":"Chua Tran Quoc","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"37629570","osm_type":"way","type":"Tourism","name_en":"Hanoi presidential palace","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2984385288","osm_type":"node","type":"Tourism","name_en":"Hanoi University of Vietnam","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"9635863","osm_type":"way","type":"Tourism","name_en":"Hanoi West Lake","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"28945667","osm_type":"way","type":"Tourism","name_en":"Hanoi Zoo","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"37625751","osm_type":"way","type":"Tourism","name_en":"Ho Chi Minh Mausoleum Complex","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"9566396","osm_type":"way","type":"Tourism","name_en":"Hoàn Kiem","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"185540946","osm_type":"way","type":"Tourism","name_en":"Lenin Park","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"37629143","osm_type":"way","type":"Tourism","name_en":"Museum Of Independence","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"37933258","osm_type":"way","type":"Tourism","name_en":"Museum of the Vietnamese Revolution","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"718495520","osm_type":"node","type":"Tourism","name_en":"Museum Of Vietnamese Women","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"178995262","osm_type":"way","type":"Tourism","name_en":"Ngoc Son Temple","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"207178320","osm_type":"way","type":"Tourism","name_en":"Quan Thanh Temple","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2377017","osm_type":"relation","type":"Tourism","name_en":"Red River","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"220302249","osm_type":"way","type":"Tourism","name_en":"Tay Ho Pagoda","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"217793880","osm_type":"way","type":"Tourism","name_en":"Thang Long Citadel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"178995269","osm_type":"way","type":"Tourism","name_en":"Tháp Rùa","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"9965952","osm_type":"way","type":"Tourism","name_en":"Truc Bach Lake","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"718495525","osm_type":"node","type":"Tourism","name_en":"Viet Nam Military History Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"445390253","osm_type":"node","type":"Tourism","name_en":"Vietnam Fine Arts Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3499083026","osm_type":"node","type":"Hotel","name_en":"Grand Anka Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2517174561","osm_type":"node","type":"Hotel","name_en":"Gulhane Corner Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2524535697","osm_type":"node","type":"Hotel","name_en":"Sultanahmet Palace","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"180968739","osm_type":"way","type":"Hotel","name_en":"Swissotel The Bosphorus","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4233065395","osm_type":"node","type":"Restaurant","name_en":"Antakya Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"276462508","osm_type":"way","type":"Restaurant","name_en":"Beyti Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3090816365","osm_type":"node","type":"Restaurant","name_en":"House Of Medusa","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4419254702","osm_type":"node","type":"Restaurant","name_en":"Karadeniz Aile Pide Ve Kebap Salonu","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3090798091","osm_type":"node","type":"Restaurant","name_en":"Pasazade Restaurant Ottoman Cuisine","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3499179012","osm_type":"node","type":"Restaurant","name_en":"Sefa Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3457985526","osm_type":"node","type":"Restaurant","name_en":"Sultan Pub","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3888332286","osm_type":"node","type":"Restaurant","name_en":"Sultania Cafe & Bistro","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1394975639","osm_type":"node","type":"Shopping","name_en":"Ali Muhiddin Haci Bekir","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2246604104","osm_type":"node","type":"Shopping","name_en":"Hafiz Mustafa 1864","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"152274167","osm_type":"way","type":"Shopping","name_en":"Kanyon","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"329227859","osm_type":"way","type":"Shopping","name_en":"Sahaflar Bazaar","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"329227859","osm_type":"way","type":"Shopping","name_en":"Sahaflar Çarşısı","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"228374153","osm_type":"way","type":"Shopping","name_en":"Tezgah Alley","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"24791813","osm_type":"way","type":"Tourism","name_en":"Atatürk Cultural Centre (AKM)","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3657448724","osm_type":"node","type":"Tourism","name_en":"Bigudi Pub","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"24826707","osm_type":"way","type":"Tourism","name_en":"Dolmabahe Palace","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"976474174","osm_type":"node","type":"Tourism","name_en":"Fatih Mosque","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"11002513","osm_type":"way","type":"Tourism","name_en":"Forum of Constantine","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4481947389","osm_type":"node","type":"Tourism","name_en":"Galata Mevlevi Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2201659666","osm_type":"node","type":"Tourism","name_en":"Sadberk Hanim Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"218366324","osm_type":"way","type":"Tourism","name_en":"SantralIstanbul Art Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4567928","osm_type":"relation","type":"Tourism","name_en":"Sokollu Mehmet Pa?a Mosque","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"398128605","osm_type":"way","type":"Tourism","name_en":"Sultan Ahmed Mosque (Blue Mosque)","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"398128605","osm_type":"way","type":"Tourism","name_en":"Topkapi Palace Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"313876238","osm_type":"way","type":"Hotel","name_en":"Hotel Good Inn","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368662882","osm_type":"node","type":"Hotel","name_en":"Jeju Dongyang Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368662405","osm_type":"node","type":"Hotel","name_en":"Jeju Poonglim Resort","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368944957","osm_type":"node","type":"Hotel","name_en":"Jeju Soldaewat Pension","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"375497129","osm_type":"way","type":"Hotel","name_en":"Phoenix Island","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"568995198","osm_type":"node","type":"Hotel","name_en":"Shineville Resort","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368954124","osm_type":"node","type":"Restaurant","name_en":"Hotel Sun Beach","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4464722791","osm_type":"node","type":"Restaurant","name_en":"Hwaro Hyang","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4416285892","osm_type":"node","type":"Restaurant","name_en":"Noodle Street","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4456303492","osm_type":"node","type":"Restaurant","name_en":"Paris Baguette","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2455282301","osm_type":"node","type":"Restaurant","name_en":"Rothem pension","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"373162502","osm_type":"way","type":"Restaurant","name_en":"Sanho Jeonbok","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"372712350","osm_type":"way","type":"Shopping","name_en":"Cheju Underground Shopping Street","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"372712350","osm_type":"way","type":"Shopping","name_en":"Chilsungro Shopping Town","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"371656275","osm_type":"way","type":"Shopping","name_en":"E-Mart","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"278023980","osm_type":"way","type":"Shopping","name_en":"E-Mart","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"356434618","osm_type":"way","type":"Shopping","name_en":"ETUDE HOUSE","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"353211436","osm_type":"way","type":"Shopping","name_en":"Jeju 5-day market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1904543636","osm_type":"node","type":"Shopping","name_en":"Jeju City Hall","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368868542","osm_type":"node","type":"Shopping","name_en":"Jeju East Traditional Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"372302163","osm_type":"way","type":"Shopping","name_en":"Jeju Folk Five-Day Interval Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"143197620","osm_type":"way","type":"Shopping","name_en":"Korea Ginseng","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3759813171","osm_type":"node","type":"Shopping","name_en":"Lotte Duty Free Store","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"250718035","osm_type":"way","type":"Shopping","name_en":"The Shilla Duty Free","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"374039423","osm_type":"way","type":"Shopping","name_en":"The Shilla Duty Free Jeju","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"372522610","osm_type":"way","type":"Tourism","name_en":"Bijarim Forest","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368733805","osm_type":"node","type":"Tourism","name_en":"Cheju Island Chocolate Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"370213057","osm_type":"way","type":"Tourism","name_en":"Gwandeokjeong","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368735470","osm_type":"node","type":"Tourism","name_en":"Haenyeo Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368866237","osm_type":"node","type":"Tourism","name_en":"Halla Arboretum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"372067002","osm_type":"way","type":"Tourism","name_en":"Hallim Park","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368950777","osm_type":"node","type":"Tourism","name_en":"Hamdeo Seaside Bath","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"352594467","osm_type":"way","type":"Tourism","name_en":"Jeju Aerospace Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"325066410","osm_type":"node","type":"Tourism","name_en":"Jeju Country Club","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"372358112","osm_type":"way","type":"Tourism","name_en":"Jeju Folklore and Natural History Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3752036034","osm_type":"node","type":"Tourism","name_en":"Jeju Glass Castle","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"242553870","osm_type":"way","type":"Tourism","name_en":"Jeju international peace center","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2457564574","osm_type":"node","type":"Tourism","name_en":"Jeju Museum of Contemporary Art","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"375497791","osm_type":"way","type":"Tourism","name_en":"Jeju Trickeye Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"253976811","osm_type":"way","type":"Tourism","name_en":"Kimnyoung Maze Park","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"375334000","osm_type":"way","type":"Tourism","name_en":"Locadio World","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"893995326","osm_type":"node","type":"Tourism","name_en":"Manjang Cave","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"369809426","osm_type":"way","type":"Tourism","name_en":"National Jeju Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"892951053","osm_type":"node","type":"Tourism","name_en":"Samsung Hyeol","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"406934946","osm_type":"way","type":"Tourism","name_en":"Samyang Beach","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2598237154","osm_type":"node","type":"Tourism","name_en":"Sangumburi Crater","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"371667202","osm_type":"way","type":"Tourism","name_en":"Spirited Garden","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"249857724","osm_type":"way","type":"Tourism","name_en":"Teddy Bear Safari Teseum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"369786684","osm_type":"way","type":"Tourism","name_en":"Teddy Valley Golft","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"150677378","osm_type":"way","type":"Hotel","name_en":"Aloft Kuala Lumpur Sentral","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"24582196","osm_type":"way","type":"Hotel","name_en":"Casa Mutiara Service Apartment","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4211714691","osm_type":"node","type":"Hotel","name_en":"Doubletree by Hilton Hotel Kuala Lumpur","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4226401111","osm_type":"node","type":"Hotel","name_en":"Fernloft KL@ Chinatown","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1753356320","osm_type":"node","type":"Hotel","name_en":"Flamingo By The Lake","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4238799691","osm_type":"node","type":"Hotel","name_en":"Geo Hotel Kuala Lumpur","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1349431197","osm_type":"node","type":"Hotel","name_en":"Hotel Sri Petaling","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2959148094","osm_type":"node","type":"Hotel","name_en":"Hotel Summer View","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"23034610","osm_type":"way","type":"Hotel","name_en":"InterContinental Kuala Lumpur","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4186767146","osm_type":"node","type":"Hotel","name_en":"Lotus Hotel K L Sentral","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3340727305","osm_type":"node","type":"Hotel","name_en":"Pacific Regency Hotel Suites","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1812003919","osm_type":"node","type":"Hotel","name_en":"Sani Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4342588423","osm_type":"node","type":"Hotel","name_en":"Submarine Guest House China Town","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1770397776","osm_type":"node","type":"Hotel","name_en":"The Royale Chulan Kuala Lumpur","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"50882141","osm_type":"way","type":"Hotel","name_en":"Traders Hotel, Kuala Lumpur","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3788466249","osm_type":"node","type":"Restaurant","name_en":"Chinese-Hakka Cuisine","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1545766728","osm_type":"node","type":"Restaurant","name_en":"La Risata (Ampang / Damansara)","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2968981965","osm_type":"node","type":"Restaurant","name_en":"Nam Heong Chicken Rice","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4423264501","osm_type":"node","type":"Restaurant","name_en":"Nam Heong Chicken Rice","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4240687691","osm_type":"node","type":"Restaurant","name_en":"Old China Cafe","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1640445207","osm_type":"node","type":"Restaurant","name_en":"Old Town White Coffee","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4217208789","osm_type":"node","type":"Restaurant","name_en":"Yut Kee","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"390547190","osm_type":"node","type":"Shopping","name_en":"Avenue K","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"337183425","osm_type":"way","type":"Shopping","name_en":"Capsquare","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4395697089","osm_type":"node","type":"Shopping","name_en":"Chow Kit Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"280182952","osm_type":"way","type":"Shopping","name_en":"Imbi Plaza","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"341826385","osm_type":"node","type":"Shopping","name_en":"Pasar Malam","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"341826394","osm_type":"node","type":"Shopping","name_en":"Pasar Malam","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"341826434","osm_type":"node","type":"Shopping","name_en":"Pasar Malam","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"361351323","osm_type":"node","type":"Shopping","name_en":"Pasar Malam","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"362381577","osm_type":"node","type":"Shopping","name_en":"Pasar Malam","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"405211749","osm_type":"node","type":"Shopping","name_en":"Pasar Malam","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"122455069","osm_type":"way","type":"Shopping","name_en":"Royal Selangor","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"133076254","osm_type":"way","type":"Shopping","name_en":"Sunway Pyramid Shopping Center","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"107998480","osm_type":"node","type":"Shopping","name_en":"The Curve","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4124561552","osm_type":"node","type":"Tourism","name_en":"City Gallery","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3322789787","osm_type":"node","type":"Tourism","name_en":"Deer Park","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3310818921","osm_type":"node","type":"Tourism","name_en":"Dharma Realm Guan Yin Sagely Monastery","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2518511801","osm_type":"node","type":"Tourism","name_en":"Hibiscus Garden","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4277923290","osm_type":"node","type":"Tourism","name_en":"Kuala Lumpur Guan Yin Si","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"148018446","osm_type":"way","type":"Tourism","name_en":"Malaysia Agriculture Park","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"244264278","osm_type":"way","type":"Tourism","name_en":"Masjid Albukhary","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1537737630","osm_type":"node","type":"Tourism","name_en":"Masjid Jamek","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4283481889","osm_type":"node","type":"Tourism","name_en":"National History Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"158527518","osm_type":"way","type":"Tourism","name_en":"National Science Center","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"648858711","osm_type":"node","type":"Tourism","name_en":"Petronas Towers","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3645616837","osm_type":"node","type":"Tourism","name_en":"Rumah Penghulu Abu Seman","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"343508974","osm_type":"node","type":"Tourism","name_en":"Taman Tasik Titiwangsa","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"28215347","osm_type":"way","type":"Tourism","name_en":"The Sri Maha Mariamman Temple","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4269870191","osm_type":"node","type":"Hotel","name_en":"Almont Hotel Kyoto","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"268192643","osm_type":"way","type":"Hotel","name_en":"ANA Crowne Plaza Kyoto","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2408980085","osm_type":"node","type":"Hotel","name_en":"Ibis Styles Kyoto Station","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"305179813","osm_type":"node","type":"Hotel","name_en":"Kyoto Royal Hotel & Spa","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"601836463","osm_type":"node","type":"Hotel","name_en":"Kyoto Tower Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3259699661","osm_type":"node","type":"Hotel","name_en":"Royal Park Hotel The Kyoto","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2961154840","osm_type":"node","type":"Hotel","name_en":"Sakura?Terrace","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4151038489","osm_type":"node","type":"Hotel","name_en":"Sakura?Terrace","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3259204564","osm_type":"node","type":"Restaurant","name_en":"Arashiyamayoshimura","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4387240008","osm_type":"node","type":"Restaurant","name_en":"Gogyo","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2966837992","osm_type":"node","type":"Restaurant","name_en":"Katsukura Sanjohonten","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"426359867","osm_type":"way","type":"Restaurant","name_en":"Oimatsuarashiyamaten","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3844206474","osm_type":"node","type":"Restaurant","name_en":"Shoraian","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4365798689","osm_type":"node","type":"Restaurant","name_en":"Tsujiri Honten","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4481178393","osm_type":"node","type":"Shopping","name_en":"Avanti","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"205748651","osm_type":"way","type":"Shopping","name_en":"Daimaru Shinsaibashi","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4370742886","osm_type":"node","type":"Shopping","name_en":"Family Mart","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2367201313","osm_type":"node","type":"Shopping","name_en":"Kyoto Handicraft Center","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"601838668","osm_type":"node","type":"Shopping","name_en":"Kyoto station","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"188997958","osm_type":"way","type":"Shopping","name_en":"Nishijin","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4481034191","osm_type":"node","type":"Shopping","name_en":"Shinkyogoku mall","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1969966006","osm_type":"node","type":"Shopping","name_en":"Takashimaya","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"344481002","osm_type":"way","type":"Shopping","name_en":"Takashimaya","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4234169990","osm_type":"node","type":"Shopping","name_en":"Yojiya","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1936156791","osm_type":"node","type":"Tourism","name_en":"Bishamon-dō Temple","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"404678473","osm_type":"way","type":"Tourism","name_en":"Enryaku-ji","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"301527733","osm_type":"way","type":"Tourism","name_en":"Fushimi Inari Shrine","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"390069758","osm_type":"way","type":"Tourism","name_en":"Goju no To","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"720256665","osm_type":"node","type":"Tourism","name_en":"Kasamatsu Park","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"351136449","osm_type":"way","type":"Tourism","name_en":"Kawai shrine","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"316011169","osm_type":"way","type":"Tourism","name_en":"Kumano Nyakuoji Shrine","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"343426761","osm_type":"way","type":"Tourism","name_en":"Kuramadera Temple","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"99448226","osm_type":"way","type":"Tourism","name_en":"Kyoto Gyoen National Garden","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"98103477","osm_type":"node","type":"Tourism","name_en":"Ryoanji","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4355966389","osm_type":"node","type":"Tourism","name_en":"Saimyō-ji","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"260121328","osm_type":"way","type":"Tourism","name_en":"Senbon Torii","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"99145408","osm_type":"way","type":"Tourism","name_en":"Sentō Gosho","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"429118673","osm_type":"way","type":"Tourism","name_en":"Uji Bridge","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1422963059","osm_type":"node","type":"Tourism","name_en":"Uji Genji Musuem","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"121131295","osm_type":"way","type":"Tourism","name_en":"Umekoji Park","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"221472781","osm_type":"way","type":"Tourism","name_en":"Zuishinin","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4258073","osm_type":"way","type":"Hotel","name_en":"51 Buckingham Gate","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"160140566","osm_type":"way","type":"Hotel","name_en":"Apex London Wall Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1159556764","osm_type":"node","type":"Hotel","name_en":"Arriva Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"120355003","osm_type":"way","type":"Hotel","name_en":"Base2stay","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"254025974","osm_type":"node","type":"Hotel","name_en":"Crestfield Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"95300764","osm_type":"way","type":"Hotel","name_en":"Duke Of Leinster Hotel 伦斯特公爵酒店）","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"42321139","osm_type":"way","type":"Hotel","name_en":"Gower Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"89961119","osm_type":"way","type":"Hotel","name_en":"H10 London Waterloo","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"95425266","osm_type":"way","type":"Hotel","name_en":"Holiday Inn London Kensington Forum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"62234825","osm_type":"way","type":"Hotel","name_en":"K+K Hotel George","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3274305","osm_type":"relation","type":"Hotel","name_en":"Park Plaza Victoria London","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"603116285","osm_type":"node","type":"Hotel","name_en":"Radisson Blu Edwardian Mercer Street Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"874823378","osm_type":"node","type":"Hotel","name_en":"The Montague on the Gardens","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"184419081","osm_type":"way","type":"Hotel","name_en":"The Soho Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"362164414","osm_type":"way","type":"Restaurant","name_en":"Barossa","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2251078681","osm_type":"node","type":"Restaurant","name_en":"Burger and Lobster - Mayfair","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"157771355","osm_type":"way","type":"Restaurant","name_en":"DOZO","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2350012626","osm_type":"node","type":"Restaurant","name_en":"Laduree","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1285073336","osm_type":"node","type":"Restaurant","name_en":"Meze Mangal","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2624165040","osm_type":"node","type":"Restaurant","name_en":"Patisserie Deux Amie","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1230827961","osm_type":"node","type":"Restaurant","name_en":"Sardo","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"288394417","osm_type":"way","type":"Restaurant","name_en":"Soho Joe","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"97175538","osm_type":"way","type":"Restaurant","name_en":"St John's","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"576403603","osm_type":"node","type":"Restaurant","name_en":"Vincent Rooms","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"888615322","osm_type":"node","type":"Restaurant","name_en":"Zucca - Bermondsey St.","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1097744275","osm_type":"node","type":"Shopping","name_en":"Abercrombie & Fitch","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"692190694","osm_type":"node","type":"Shopping","name_en":"Algerian Coffee Stores","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"534622248","osm_type":"node","type":"Shopping","name_en":"Burberry Factory Shop","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"290081125","osm_type":"way","type":"Shopping","name_en":"Camper（Old Bond）","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"40863717","osm_type":"way","type":"Shopping","name_en":"Emporio Armani","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"25696035","osm_type":"way","type":"Shopping","name_en":"Greenwich Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"320420935","osm_type":"way","type":"Shopping","name_en":"Links of London","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2967342479","osm_type":"node","type":"Shopping","name_en":"Links of London","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3310091767","osm_type":"node","type":"Shopping","name_en":"Links of London","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1896158174","osm_type":"node","type":"Shopping","name_en":"Lulu Guinness","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"654107285","osm_type":"node","type":"Shopping","name_en":"Marks & Spencer（Oxford St）","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"352896490","osm_type":"node","type":"Shopping","name_en":"Neal’s Yard Remedies","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"610974580","osm_type":"node","type":"Shopping","name_en":"Primark（Oxford St）","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"290461911","osm_type":"way","type":"Shopping","name_en":"Reiss（Vigo Store）","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2379150442","osm_type":"node","type":"Shopping","name_en":"Royal Selangor","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1425277892","osm_type":"node","type":"Shopping","name_en":"Topshop","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"60693939","osm_type":"way","type":"Tourism","name_en":"Battersea Park Children's Zoo","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"127350090","osm_type":"way","type":"Tourism","name_en":"BMX Track","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2428671488","osm_type":"node","type":"Tourism","name_en":"Comedy Club","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"502584174","osm_type":"node","type":"Tourism","name_en":"Fo Guang Shan Temple","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4030635565","osm_type":"node","type":"Tourism","name_en":"New London Architecture","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3661486904","osm_type":"node","type":"Tourism","name_en":"Olympic Village","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"30863528","osm_type":"node","type":"Tourism","name_en":"Orelans House Gallery","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"510786764","osm_type":"node","type":"Tourism","name_en":"Petrie Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"5096880","osm_type":"way","type":"Tourism","name_en":"Royal Blackheath Golf Club","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1490680047","osm_type":"node","type":"Tourism","name_en":"St Peter's Church","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"274879889","osm_type":"way","type":"Tourism","name_en":"Streatham Ice Rink","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"184236905","osm_type":"way","type":"Tourism","name_en":"The Royal Artillery Barracks","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3060887211","osm_type":"node","type":"Tourism","name_en":"The View from the Shard","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4123733983","osm_type":"node","type":"Hotel","name_en":"Budget Inn Hollywood","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4353711299","osm_type":"node","type":"Hotel","name_en":"Crowne Plaza Los Angeles Airport","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"323294287","osm_type":"way","type":"Hotel","name_en":"Hilton Los Angeles Airport","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"24720417","osm_type":"way","type":"Hotel","name_en":"Hilton Los Angeles/San Gabriel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4441302123","osm_type":"node","type":"Hotel","name_en":"Holiday Inn Los Angeles-Intl Airport","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1718756271","osm_type":"node","type":"Hotel","name_en":"Los Angeles Airport Marriott","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"423021317","osm_type":"way","type":"Hotel","name_en":"Motel 6 Hollywood","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1097094376","osm_type":"node","type":"Hotel","name_en":"Motel 6 Rosemead","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4102239668","osm_type":"node","type":"Hotel","name_en":"Palihouse Santa Monica","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4125339870","osm_type":"node","type":"Hotel","name_en":"Quality Inn Near Long Beach Airport","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"391383681","osm_type":"way","type":"Hotel","name_en":"Sofitel Los Angeles at Beverly Hills","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"420147165","osm_type":"way","type":"Hotel","name_en":"Super 8 Hollywood","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"699596636","osm_type":"node","type":"Hotel","name_en":"Travelodge Ocean Front","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3795867780","osm_type":"node","type":"Restaurant","name_en":"BCD Tofu House","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"79388499","osm_type":"way","type":"Restaurant","name_en":"Chengdu Taste","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"471255269","osm_type":"node","type":"Restaurant","name_en":"Drago Ristorante","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"424024157","osm_type":"way","type":"Restaurant","name_en":"In-N-Out burger","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3855965601","osm_type":"node","type":"Restaurant","name_en":"Intelligentsia","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4259783966","osm_type":"node","type":"Restaurant","name_en":"Langer's Deli","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"423023346","osm_type":"way","type":"Restaurant","name_en":"Mario's Peruvian Seafood","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2363521786","osm_type":"node","type":"Restaurant","name_en":"Native Foods","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"159098112","osm_type":"way","type":"Restaurant","name_en":"Restaurant at the Getty Center","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3143568324","osm_type":"node","type":"Restaurant","name_en":"Scoops","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1153889716","osm_type":"node","type":"Restaurant","name_en":"Sushi-Gen","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"576992699","osm_type":"node","type":"Restaurant","name_en":"The Boiling Crab","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"642708989","osm_type":"node","type":"Shopping","name_en":"Bloomingdale's","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2406440684","osm_type":"node","type":"Shopping","name_en":"Central Plaza Chinatown","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"427942808","osm_type":"way","type":"Shopping","name_en":"Grand Central Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"349378688","osm_type":"way","type":"Shopping","name_en":"La Brea Bakery","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"423889766","osm_type":"way","type":"Shopping","name_en":"Melrose Avenue","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2285787888","osm_type":"node","type":"Shopping","name_en":"Saks Fifth Avenue","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"158655901","osm_type":"way","type":"Shopping","name_en":"South Coast Plaza Shopping Center","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"400585085","osm_type":"way","type":"Shopping","name_en":"Sunset Blvd","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"175760816","osm_type":"way","type":"Tourism","name_en":"Canal Walk","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1860026463","osm_type":"node","type":"Tourism","name_en":"Jurassic Park——The Ride","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"6339119","osm_type":"relation","type":"Tourism","name_en":"La Brea Tar Pits and Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368167145","osm_type":"node","type":"Tourism","name_en":"MAK Center for Art and Architecture -- Schindler House","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"358816692","osm_type":"node","type":"Tourism","name_en":"Malibu Beach","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368174050","osm_type":"node","type":"Tourism","name_en":"Museum of the American West","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"420679719","osm_type":"way","type":"Tourism","name_en":"Otis College of Art and Design Gallery","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368171691","osm_type":"node","type":"Tourism","name_en":"Palm Springs","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"6103417","osm_type":"relation","type":"Tourism","name_en":"Santa Monica Beach","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"218925531","osm_type":"way","type":"Tourism","name_en":"Santa Monica Swim Center","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368170606","osm_type":"node","type":"Tourism","name_en":"Solvang","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"381189683","osm_type":"way","type":"Tourism","name_en":"Sunset Strip","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368171340","osm_type":"node","type":"Tourism","name_en":"The Greek Theatre","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4434875689","osm_type":"node","type":"Hotel","name_en":"Ameritania at Times Square","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"266170536","osm_type":"way","type":"Hotel","name_en":"Casablanca Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1707825825","osm_type":"node","type":"Hotel","name_en":"DoubleTree by Hilton New York Times Square South","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1273406878","osm_type":"node","type":"Hotel","name_en":"DoubleTree Suites by Hilton Hotel New York City - Times Square","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"264625640","osm_type":"way","type":"Hotel","name_en":"Dream Downtown","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"266084216","osm_type":"way","type":"Hotel","name_en":"Fairfield Inn & Suites New York Manhattan/Times Square","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3822448402","osm_type":"node","type":"Hotel","name_en":"Hilton Garden Inn Times Square","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3778811","osm_type":"relation","type":"Hotel","name_en":"Hilton New York JFK Airport","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2703424151","osm_type":"node","type":"Hotel","name_en":"Holiday Inn Express Madison Square Garden","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"207556738","osm_type":"way","type":"Hotel","name_en":"Holiday Inn NYC - Lower East Side","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1285871683","osm_type":"node","type":"Hotel","name_en":"Hotel Novotel New York Times Square","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"266151925","osm_type":"way","type":"Hotel","name_en":"Mayfair New York","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368061315","osm_type":"node","type":"Hotel","name_en":"Shoreham Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3829129593","osm_type":"node","type":"Hotel","name_en":"West Tower at ONE UN New York, formerly Millennium UN Plaza","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4243429396","osm_type":"node","type":"Restaurant","name_en":"21 club","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3969879899","osm_type":"node","type":"Restaurant","name_en":"Chick-fil-A","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3972056717","osm_type":"node","type":"Restaurant","name_en":"Chick-fil-A","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4271528490","osm_type":"node","type":"Restaurant","name_en":"Chick-fil-A","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4454392489","osm_type":"node","type":"Restaurant","name_en":"Gyukaku","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1667407048","osm_type":"node","type":"Restaurant","name_en":"Levain Bakery","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4300475590","osm_type":"node","type":"Restaurant","name_en":"Los Tacos No.1","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3837607014","osm_type":"node","type":"Restaurant","name_en":"Luke's Lobster","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"270985138","osm_type":"node","type":"Restaurant","name_en":"McDonald's","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3248774699","osm_type":"node","type":"Shopping","name_en":"Barneys New York","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"999526131","osm_type":"node","type":"Shopping","name_en":"century 21","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1695866185","osm_type":"node","type":"Shopping","name_en":"century 21","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2830623176","osm_type":"node","type":"Shopping","name_en":"century 21","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4479637590","osm_type":"node","type":"Shopping","name_en":"century 21","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4283625389","osm_type":"node","type":"Shopping","name_en":"Henri Bendel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"999472957","osm_type":"node","type":"Shopping","name_en":"JC Penny","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2678783480","osm_type":"node","type":"Shopping","name_en":"M&M's World","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1427521107","osm_type":"node","type":"Shopping","name_en":"New York Yankees Clubhouse","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3248774691","osm_type":"node","type":"Shopping","name_en":"Swatch","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2020487653","osm_type":"node","type":"Tourism","name_en":"Asser Levy Recreation Center, Pool & Playground","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2555126667","osm_type":"node","type":"Tourism","name_en":"Landmark Sunshine Cinema","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368045750","osm_type":"node","type":"Tourism","name_en":"New York City Criminal Court","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4097207416","osm_type":"node","type":"Tourism","name_en":"One World Observatory","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"266941348","osm_type":"way","type":"Tourism","name_en":"St. Nicholas Russian Orthodox Cathedral","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2311190720","osm_type":"node","type":"Tourism","name_en":"Statue of Liberty","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1854085224","osm_type":"node","type":"Hotel","name_en":"Cross Hotel Osaka","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1740980772","osm_type":"node","type":"Hotel","name_en":"Hearton Hotel Nishi Umeda","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1821034903","osm_type":"node","type":"Hotel","name_en":"Hearton Hotel Shinsaibashi","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2723561565","osm_type":"node","type":"Hotel","name_en":"Hotel Monterey Grasmere Osaka","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"521649530","osm_type":"node","type":"Hotel","name_en":"Hotel Monterey La Soeur Osaka","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2163545987","osm_type":"node","type":"Hotel","name_en":"Imperial Hotel Osaka","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2492271827","osm_type":"node","type":"Hotel","name_en":"InterContinental Hotel Osaka","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3646933794","osm_type":"node","type":"Hotel","name_en":"Mitsui Garden Hotel Osaka Premier","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3742242683","osm_type":"node","type":"Hotel","name_en":"Richmond Hotel Namba Daikokucho","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1287005062","osm_type":"node","type":"Hotel","name_en":"Swissotel Nankai Osaka Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4243186889","osm_type":"node","type":"Restaurant","name_en":"dotombori","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3523016537","osm_type":"node","type":"Restaurant","name_en":"Dotonboriimaihonten","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2603567733","osm_type":"node","type":"Restaurant","name_en":"Elle","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1736430756","osm_type":"node","type":"Restaurant","name_en":"Fujiya 1935","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3507545615","osm_type":"node","type":"Restaurant","name_en":"Ichiran","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"230770061","osm_type":"way","type":"Restaurant","name_en":"KIZI","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3800314597","osm_type":"node","type":"Restaurant","name_en":"Osaka Takoyaki Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"224356727","osm_type":"way","type":"Restaurant","name_en":"Shin-Akashi","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2702878605","osm_type":"node","type":"Shopping","name_en":"Daimaru","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3409777236","osm_type":"node","type":"Shopping","name_en":"Daimaru","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3409777237","osm_type":"node","type":"Shopping","name_en":"Daimaru","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1740969658","osm_type":"node","type":"Shopping","name_en":"Daimaru","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"178942581","osm_type":"way","type":"Shopping","name_en":"Grand Front Osaka","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1740969655","osm_type":"node","type":"Shopping","name_en":"Hankyu Department Store","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3668881125","osm_type":"node","type":"Shopping","name_en":"Hankyu San Bangai","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"178942581","osm_type":"way","type":"Shopping","name_en":"ITO-YA(GRAND FRONT Osaka)","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"253771994","osm_type":"way","type":"Shopping","name_en":"JR Osaka Station City","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1906846970","osm_type":"node","type":"Shopping","name_en":"MUJI","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3060407062","osm_type":"node","type":"Shopping","name_en":"MUJI","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"447587574","osm_type":"node","type":"Shopping","name_en":"Osaka Takashimaya","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4242361712","osm_type":"node","type":"Shopping","name_en":"Osaka Tsurumi Mitsui Outlet Park","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"410957183","osm_type":"way","type":"Shopping","name_en":"Shinsaibashisuji shopping Arcade","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"151816175","osm_type":"way","type":"Shopping","name_en":"Tempozan Market Place","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"44388847","osm_type":"way","type":"Shopping","name_en":"Tenjinbashi","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2681858855","osm_type":"node","type":"Shopping","name_en":"Whity Umeda","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"331047951","osm_type":"way","type":"Shopping","name_en":"Zipang Rinku Pleasure Town","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368229019","osm_type":"way","type":"Tourism","name_en":"Big bang","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"43979655","osm_type":"way","type":"Tourism","name_en":"Cosmo Tower","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"54038477","osm_type":"way","type":"Tourism","name_en":"Ebisu Bridge","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"222438727","osm_type":"way","type":"Tourism","name_en":"Expo70 Park","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4325335299","osm_type":"node","type":"Tourism","name_en":"Floating Garden Observatory","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"71400321","osm_type":"way","type":"Tourism","name_en":"Hanshin Koshien Stadium","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1423057296","osm_type":"node","type":"Tourism","name_en":"Horie","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1423006445","osm_type":"node","type":"Tourism","name_en":"Kokuritsu Kokusai Bijutsukan","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1422981417","osm_type":"node","type":"Tourism","name_en":"Maritime Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"161762460","osm_type":"way","type":"Tourism","name_en":"Natural Hot Spring Naniwanoyu","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4260333992","osm_type":"node","type":"Tourism","name_en":"Osaka Aquarium","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"220335564","osm_type":"node","type":"Tourism","name_en":"Osaka Prefectural Police","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"151816196","osm_type":"way","type":"Tourism","name_en":"Santa Maria","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"424575109","osm_type":"way","type":"Tourism","name_en":"Sennichimae Doguyasuji Shopping Street","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4419665990","osm_type":"node","type":"Tourism","name_en":"The Osaka Museum of Housing and Living","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4236890989","osm_type":"node","type":"Tourism","name_en":"Tsutenkaku","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4119084200","osm_type":"node","type":"Hotel","name_en":"Adagio City Aparthotel Opera","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2696636915","osm_type":"node","type":"Hotel","name_en":"Alma","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4280390397","osm_type":"node","type":"Hotel","name_en":"Atelier Saint Germain Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3087190241","osm_type":"node","type":"Hotel","name_en":"Hotel du Cadran","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2179799064","osm_type":"node","type":"Hotel","name_en":"Hotel Paris Bastille","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"591672596","osm_type":"node","type":"Hotel","name_en":"Hotel Pont Royal","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"308530497","osm_type":"node","type":"Hotel","name_en":"Hotel Scribe Paris Managed by Sofitel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"839871988","osm_type":"node","type":"Hotel","name_en":"Hoteldu Collectionneur Arcde Triomphe","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3974816593","osm_type":"node","type":"Hotel","name_en":"Les Jardins du Marais","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"810252727","osm_type":"node","type":"Hotel","name_en":"Mathis Elysees Matignon","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"900669295","osm_type":"node","type":"Hotel","name_en":"Pullman Paris Bercy","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"54108370","osm_type":"way","type":"Hotel","name_en":"Pullman Paris Tour Eiffel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"290831774","osm_type":"node","type":"Hotel","name_en":"Radisson Blu Charles de Gaulle Airport","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2061878947","osm_type":"node","type":"Hotel","name_en":"Renaissance Paris Arc de Triomphe Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"676748293","osm_type":"node","type":"Hotel","name_en":"Residence Henri IV","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4462604025","osm_type":"node","type":"Restaurant","name_en":"Au Petit Sud Ouest","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"37775876","osm_type":"way","type":"Tourism","name_en":"Boulevard Haussmann","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"34677039","osm_type":"way","type":"Tourism","name_en":"Boulevard Saint - Germain","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1920884203","osm_type":"node","type":"Restaurant","name_en":"Broceliande","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3934696306","osm_type":"node","type":"Restaurant","name_en":"Chez Marie Louise","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2531553523","osm_type":"node","type":"Shopping","name_en":"City Pharma","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2656051565","osm_type":"node","type":"Shopping","name_en":"Fauchon","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1649702469","osm_type":"node","type":"Shopping","name_en":"Fauchon","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"81750472","osm_type":"node","type":"Shopping","name_en":"Fauchon","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3980764069","osm_type":"node","type":"Shopping","name_en":"Fragonard","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3468001142","osm_type":"node","type":"Shopping","name_en":"Fragonard","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2389317628","osm_type":"node","type":"Shopping","name_en":"Fragonard","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"727718898","osm_type":"node","type":"Shopping","name_en":"Galeries Lafayette","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1805513394","osm_type":"node","type":"Restaurant","name_en":"H?tel Drouot","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2036561924","osm_type":"node","type":"Restaurant","name_en":"Hermes","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3058148651","osm_type":"node","type":"Restaurant","name_en":"L'Ange 20 Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3429451872","osm_type":"node","type":"Restaurant","name_en":"L'Ange 20 Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3621829493","osm_type":"node","type":"Restaurant","name_en":"La Chocolaterie de Jacques Genin","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"68730159","osm_type":"way","type":"Restaurant","name_en":"Le Bon Marché","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"50395707","osm_type":"way","type":"Restaurant","name_en":"Le Bon Marché","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2685582243","osm_type":"node","type":"Restaurant","name_en":"Le Cinq","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1670553014","osm_type":"node","type":"Restaurant","name_en":"Le Grand Café Capucines","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2320476429","osm_type":"node","type":"Restaurant","name_en":"Les Papilles","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1871182833","osm_type":"node","type":"Shopping","name_en":"Louis Vuitton Boutique","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2039657538","osm_type":"node","type":"Shopping","name_en":"Louis Vuitton Boutique","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"840706590","osm_type":"node","type":"Restaurant","name_en":"Pedra Alta","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"67509823","osm_type":"way","type":"Tourism","name_en":"Rennes Road","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"916527542","osm_type":"node","type":"Restaurant","name_en":"Tati","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1191424069","osm_type":"node","type":"Tourism","name_en":"29 avenue Rapp","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"41873007","osm_type":"way","type":"Tourism","name_en":"Avenue des Champs-élysées","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"106312008","osm_type":"way","type":"Tourism","name_en":"école Militaire","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"93903779","osm_type":"way","type":"Tourism","name_en":"L'église Saint - Mehta","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"59848724","osm_type":"way","type":"Tourism","name_en":"L'Université de route","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3437272462","osm_type":"node","type":"Tourism","name_en":"La maison de Mme Arthur","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"95475856","osm_type":"way","type":"Tourism","name_en":"Les caractéristiques faciales de jardin","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4221369","osm_type":"way","type":"Tourism","name_en":"Paris Botanical Garden","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"409228408","osm_type":"way","type":"Tourism","name_en":"Payot","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4039351","osm_type":"way","type":"Tourism","name_en":"Place de la Concorde","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"19727160","osm_type":"way","type":"Tourism","name_en":"Pont des Arts","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"84867920","osm_type":"way","type":"Tourism","name_en":"Rue St-Dominique","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2498059218","osm_type":"node","type":"Hotel","name_en":"Angsana Laguna Phuket Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1371509709","osm_type":"node","type":"Hotel","name_en":"Boomerang Village Resort","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4410742589","osm_type":"node","type":"Hotel","name_en":"Grand Mercure Phuket Patong","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1189619789","osm_type":"node","type":"Hotel","name_en":"Katathani Phuket Beach Resort","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3921155988","osm_type":"node","type":"Hotel","name_en":"Novotel Phuket Karon Beach Resort and Spa","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4105263194","osm_type":"node","type":"Hotel","name_en":"The Kiri Villas Resort","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"64942893","osm_type":"way","type":"Restaurant","name_en":"Banzaan Fresh Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"261487463","osm_type":"way","type":"Restaurant","name_en":"Blue Elephant Phuket","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"322839502","osm_type":"way","type":"Restaurant","name_en":"Eightfold Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1319826677","osm_type":"node","type":"Restaurant","name_en":"Kan Eang pier","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"793092027","osm_type":"node","type":"Restaurant","name_en":"Patong Seafood Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"793151165","osm_type":"node","type":"Restaurant","name_en":"Pizzeria Pinocchio","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3921155992","osm_type":"node","type":"Restaurant","name_en":"Secret Cliff Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2498063291","osm_type":"node","type":"Restaurant","name_en":"Thavorn Beach Village&Spa","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"793092174","osm_type":"node","type":"Shopping","name_en":"Banana Walk","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4039738604","osm_type":"node","type":"Shopping","name_en":"Big C Jungceylon","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4039738604","osm_type":"node","type":"Shopping","name_en":"Boots SIS Big C Extra Phuket 2","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"413538956","osm_type":"way","type":"Shopping","name_en":"Central Festival Phuket","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"65641251","osm_type":"way","type":"Shopping","name_en":"Jungceylon","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3921137743","osm_type":"node","type":"Shopping","name_en":"King Power Duty Free Shop","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4292203389","osm_type":"node","type":"Shopping","name_en":"Phuket Town Night Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4292203389","osm_type":"node","type":"Shopping","name_en":"Phuket Weekend Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1082365218","osm_type":"node","type":"Shopping","name_en":"Premium Outlet Phuket","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"301802397","osm_type":"way","type":"Shopping","name_en":"Robinson Department Store","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"301802397","osm_type":"way","type":"Shopping","name_en":"Robinson Department Store (Robinson Phuket)","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"385789120","osm_type":"way","type":"Shopping","name_en":"Shopping Sale Karon Plaza","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"321326472","osm_type":"way","type":"Shopping","name_en":"Tesco Lotus Chiang Thaley","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"321326472","osm_type":"way","type":"Shopping","name_en":"Tesco Lotus Phuket","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2506866194","osm_type":"node","type":"Tourism","name_en":"Chalong Bay","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2420388160","osm_type":"node","type":"Tourism","name_en":"heroines monument","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"5805205","osm_type":"relation","type":"Tourism","name_en":"Hong Island","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"363598989","osm_type":"way","type":"Tourism","name_en":"Kai nok island","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4235947","osm_type":"relation","type":"Tourism","name_en":"Kata Beach","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"363598989","osm_type":"way","type":"Tourism","name_en":"khai nok island","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"88708444","osm_type":"node","type":"Tourism","name_en":"koh yao yai","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"88708444","osm_type":"node","type":"Tourism","name_en":"Koh Yao Yai","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"265689795","osm_type":"node","type":"Tourism","name_en":"Laem Phromthep","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2421130506","osm_type":"node","type":"Tourism","name_en":"Lh Samah Bay","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"53166566","osm_type":"way","type":"Tourism","name_en":"Nai Thon Beach","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"135015785","osm_type":"way","type":"Tourism","name_en":"Paradise Beach","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"63047210","osm_type":"way","type":"Tourism","name_en":"Patong Beach","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"321459076","osm_type":"way","type":"Tourism","name_en":"Phi Phi Island","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"321459076","osm_type":"way","type":"Tourism","name_en":"Phi Phi Island","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2638386295","osm_type":"node","type":"Tourism","name_en":"Phuket Seashell Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"5660749","osm_type":"relation","type":"Tourism","name_en":"Racha Island","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"5653247","osm_type":"relation","type":"Tourism","name_en":"Rang Yai Island","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"150200806","osm_type":"way","type":"Tourism","name_en":"Rawai Beach","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2674588438","osm_type":"node","type":"Tourism","name_en":"Sai Kaeo Beach","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3263607","osm_type":"relation","type":"Tourism","name_en":"Similan National","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2421004322","osm_type":"node","type":"Tourism","name_en":"Surin Islands","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"243010402","osm_type":"way","type":"Tourism","name_en":"The Khao Phra Thaeo Wildlife Sanctuary","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2480245079","osm_type":"node","type":"Tourism","name_en":"Viking Cave","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"663318915","osm_type":"node","type":"Tourism","name_en":"Wat Patong","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3087207083","osm_type":"node","type":"Hotel","name_en":"Best Western Hotel Artdeco","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1396488786","osm_type":"node","type":"Hotel","name_en":"Best Western Hotel President","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3052495269","osm_type":"node","type":"Hotel","name_en":"Capo D'Africa Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4233959889","osm_type":"node","type":"Hotel","name_en":"Dei Borgia Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1242055819","osm_type":"node","type":"Hotel","name_en":"Eurostars Hotel Saint John","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"130807525","osm_type":"way","type":"Hotel","name_en":"Grand Hotel De La Minerve","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1107358582","osm_type":"node","type":"Hotel","name_en":"Hotel Astoria Garden","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4249210789","osm_type":"node","type":"Hotel","name_en":"Hotel Condotti","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"668954580","osm_type":"node","type":"Hotel","name_en":"Hotel Fontanella Borghese","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3642570266","osm_type":"node","type":"Hotel","name_en":"Starhotels Metropole","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2627732060","osm_type":"node","type":"Restaurant","name_en":"Buccone","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"935387227","osm_type":"node","type":"Restaurant","name_en":"Forno Campo de' Fiori","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3061568273","osm_type":"node","type":"Restaurant","name_en":"Gelateria Valentino","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1703104111","osm_type":"node","type":"Restaurant","name_en":"Gino in vicolo Rosini","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"32631124","osm_type":"node","type":"Restaurant","name_en":"Giolitti","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"259659463","osm_type":"node","type":"Restaurant","name_en":"Giolitti","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2580279567","osm_type":"node","type":"Restaurant","name_en":"Il Cavalluccio Marino","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2274388003","osm_type":"node","type":"Restaurant","name_en":"Sensus Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4283615592","osm_type":"node","type":"Restaurant","name_en":"Trattoria Antica Hostaria da Angelino","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1710679145","osm_type":"node","type":"Shopping","name_en":"Bookàbar","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3264009445","osm_type":"node","type":"Shopping","name_en":"Campo Marzio Design","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"321995537","osm_type":"way","type":"Shopping","name_en":"Castel Romano Designer Outlet","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"361651629","osm_type":"way","type":"Shopping","name_en":"Coin","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1561730345","osm_type":"node","type":"Shopping","name_en":"Coin","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1391602797","osm_type":"node","type":"Shopping","name_en":"Coin","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"49304929","osm_type":"way","type":"Shopping","name_en":"Corso Street","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"27144794","osm_type":"way","type":"Shopping","name_en":"Fabriano","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"24191413","osm_type":"way","type":"Shopping","name_en":"Mercato dei Fiori","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"181418699","osm_type":"way","type":"Shopping","name_en":"Mercato di Piazza Vittorio","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"26784878","osm_type":"way","type":"Shopping","name_en":"Piazza di Spagna","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2768532703","osm_type":"node","type":"Shopping","name_en":"Upim","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"686151464","osm_type":"node","type":"Shopping","name_en":"Upim","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1542593183","osm_type":"node","type":"Tourism","name_en":"Detour Cinema","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1447566607","osm_type":"node","type":"Tourism","name_en":"Foro romano (Roman Forum)","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"443194158","osm_type":"way","type":"Tourism","name_en":"Piazza San Pietro","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"248743046","osm_type":"node","type":"Tourism","name_en":"Terme di Diocleziano","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2784747683","osm_type":"node","type":"Hotel","name_en":"Grand Ambassador Seoul Associated Pullman","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3793800604","osm_type":"node","type":"Hotel","name_en":"Hotel Skypark Central Myeongdong","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"355625117","osm_type":"way","type":"Hotel","name_en":"Ibis Ambassador Seoul Myeongdong","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"358300388","osm_type":"node","type":"Hotel","name_en":"Lotte Seoul Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368950971","osm_type":"node","type":"Hotel","name_en":"Mayfield Suites","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1829310099","osm_type":"node","type":"Hotel","name_en":"Novotel Seoul Ambassador Doksan","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368952098","osm_type":"node","type":"Hotel","name_en":"PJ Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3792055880","osm_type":"node","type":"Hotel","name_en":"Sheel Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4252609697","osm_type":"node","type":"Hotel","name_en":"Tmark Hotel Myeongdong","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"356215992","osm_type":"way","type":"Restaurant","name_en":"A Twosome Place By 51k","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4416285798","osm_type":"node","type":"Restaurant","name_en":"Hello Kitty Cafe","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"223165016","osm_type":"node","type":"Restaurant","name_en":"Mad for Garlic","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2453013729","osm_type":"node","type":"Restaurant","name_en":"MANGO SIX","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"355644299","osm_type":"way","type":"Restaurant","name_en":"Miss Lee Café","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3612147545","osm_type":"node","type":"Restaurant","name_en":"Myeong Dong Dumpling Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4214820491","osm_type":"node","type":"Restaurant","name_en":"Tosokchon Samgyetang","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3611958279","osm_type":"node","type":"Shopping","name_en":"Aland","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"357024175","osm_type":"node","type":"Shopping","name_en":"ERMENEGILDO ZEGNA","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"357024175","osm_type":"node","type":"Shopping","name_en":"ERMENEGILDO ZEGNA","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"357024175","osm_type":"node","type":"Shopping","name_en":"ERMENEGILDO ZEGNA","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"357024175","osm_type":"node","type":"Shopping","name_en":"ERMENEGILDO ZEGNA","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3414261497","osm_type":"node","type":"Shopping","name_en":"Lotte Department Store","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3414261497","osm_type":"node","type":"Shopping","name_en":"Lotte Department Store","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368867401","osm_type":"node","type":"Shopping","name_en":"Seoul Folk Flea Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"355665708","osm_type":"way","type":"Shopping","name_en":"Ssamziegil","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4243714890","osm_type":"node","type":"Tourism","name_en":"Bukchon Culture Center","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"26259470","osm_type":"way","type":"Tourism","name_en":"Dongdaemun Design Plaza","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"31286807","osm_type":"way","type":"Tourism","name_en":"FreedomBridge","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"300165909","osm_type":"way","type":"Tourism","name_en":"Itaewon Land","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"357018932","osm_type":"way","type":"Tourism","name_en":"Korea House","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"350284406","osm_type":"way","type":"Tourism","name_en":"Leeum Samsung Museum of Art","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4384883589","osm_type":"node","type":"Tourism","name_en":"love museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"355592113","osm_type":"way","type":"Tourism","name_en":"Myeongdong NANTA Theatre","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"78628769","osm_type":"way","type":"Tourism","name_en":"Namsan Samsoon Stairs","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1808686403","osm_type":"node","type":"Tourism","name_en":"National Theater of Korea","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"415153985","osm_type":"node","type":"Tourism","name_en":"Pear Mural Village","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"356474591","osm_type":"way","type":"Tourism","name_en":"S.M.Entertainment","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3817579665","osm_type":"node","type":"Tourism","name_en":"Samsung Dlight","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"273026348","osm_type":"way","type":"Tourism","name_en":"Sky Park","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"37928409","osm_type":"way","type":"Tourism","name_en":"The Han River Grand Bridge","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"368735822","osm_type":"node","type":"Tourism","name_en":"Tteok Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2676440132","osm_type":"node","type":"Tourism","name_en":"World Cup Park","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"33807615","osm_type":"way","type":"Hotel","name_en":"Best Western Plus The Tuscan","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"112774492","osm_type":"way","type":"Hotel","name_en":"Courtyard San Francisco Downtown","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"288804933","osm_type":"way","type":"Hotel","name_en":"Hayes Valley Page by Come2SF","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1941537172","osm_type":"node","type":"Hotel","name_en":"Hilton San Francisco Union Square Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3826400","osm_type":"relation","type":"Hotel","name_en":"Holiday Inn Fishermans Wharf","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"648270469","osm_type":"node","type":"Hotel","name_en":"Hotel Nikko San Francisco","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"288499856","osm_type":"way","type":"Hotel","name_en":"InterContinental Mark Hopkins San Francisco","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3827695","osm_type":"relation","type":"Hotel","name_en":"San Francisco Marriott Fisherman's Wharf","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"260127286","osm_type":"way","type":"Hotel","name_en":"Winston Arms Apartments","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3317120154","osm_type":"node","type":"Restaurant","name_en":"Absinthe","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"223616923","osm_type":"way","type":"Restaurant","name_en":"Alembic","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2629023876","osm_type":"node","type":"Restaurant","name_en":"Alice's","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2840142901","osm_type":"node","type":"Restaurant","name_en":"Americano","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"256092423","osm_type":"way","type":"Restaurant","name_en":"Atlas Café","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2657227485","osm_type":"node","type":"Restaurant","name_en":"Caffe Roma","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1419473685","osm_type":"node","type":"Restaurant","name_en":"Isa","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4196313093","osm_type":"node","type":"Restaurant","name_en":"R&G Lounge","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3430953015","osm_type":"node","type":"Restaurant","name_en":"Shaoshan Mountain","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3702219083","osm_type":"node","type":"Restaurant","name_en":"Tony's Pizza Napoletana","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"366711368","osm_type":"node","type":"Restaurant","name_en":"Tosca Cafe","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"979958085","osm_type":"node","type":"Restaurant","name_en":"Zabu Zabu","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"215472849","osm_type":"way","type":"Shopping","name_en":"Ambassador Toys","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"262051839","osm_type":"way","type":"Shopping","name_en":"Bi-Rite Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2296383574","osm_type":"node","type":"Shopping","name_en":"Bi-Rite Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"332627424","osm_type":"node","type":"Shopping","name_en":"Bloomingdale's","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"806226986","osm_type":"node","type":"Shopping","name_en":"Clarion Music","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"416779714","osm_type":"node","type":"Shopping","name_en":"Marina Supermarket","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2626604199","osm_type":"node","type":"Shopping","name_en":"Ranch 99 Supermarket","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"32863589","osm_type":"way","type":"Shopping","name_en":"Saks Fifth Avenue","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"365491272","osm_type":"node","type":"Shopping","name_en":"Sur la Table","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"6382083","osm_type":"way","type":"Shopping","name_en":"Union St","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2340007204","osm_type":"node","type":"Shopping","name_en":"Urban Outfitters","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"256633163","osm_type":"way","type":"Tourism","name_en":"African - American history and culture in San Francisco","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"417235672","osm_type":"node","type":"Tourism","name_en":"Beach Chalet & Park Chalet","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"261139523","osm_type":"way","type":"Tourism","name_en":"Cable Cars","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"24539226","osm_type":"way","type":"Tourism","name_en":"Cow Palace","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"8919110","osm_type":"way","type":"Tourism","name_en":"Fisherman's Wharf","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"114151121","osm_type":"way","type":"Tourism","name_en":"Ina Coolbrith Park","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"287954700","osm_type":"way","type":"Tourism","name_en":"LincolnParkGolfCourse","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4432602293","osm_type":"node","type":"Tourism","name_en":"Lombard Street","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"23871270","osm_type":"way","type":"Tourism","name_en":"Mission Dolores","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"115944818","osm_type":"way","type":"Tourism","name_en":"Old U.S. Mint","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"394443191","osm_type":"way","type":"Tourism","name_en":"San Francisco Bay Bridge","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"120480164","osm_type":"way","type":"Tourism","name_en":"San Francisco Botanical Garden & Strybing Arboretum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1206749885","osm_type":"node","type":"Tourism","name_en":"SF Camerawork","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"39333460","osm_type":"way","type":"Tourism","name_en":"The 16th Avenue Tiled Steps Project","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1180892723","osm_type":"node","type":"Hotel","name_en":"Angkor Miracle Resort&Spa","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"453274132","osm_type":"way","type":"Hotel","name_en":"Angkor Orchid Central Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"260872976","osm_type":"node","type":"Hotel","name_en":"Angkor Paradise Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"323319995","osm_type":"way","type":"Hotel","name_en":"Borei Angkor Resort & Spa","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1059200071","osm_type":"node","type":"Hotel","name_en":"Emerald City Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1105616172","osm_type":"node","type":"Hotel","name_en":"HanumanAlaya Boutique Residence","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3294769516","osm_type":"node","type":"Hotel","name_en":"Krorma Yamato Guesthouse","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"453276848","osm_type":"way","type":"Hotel","name_en":"Le Méridien Angkor","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3112115048","osm_type":"node","type":"Hotel","name_en":"Motherhome Inn","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4246239490","osm_type":"node","type":"Hotel","name_en":"Palm Garden Lodge","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2555412304","osm_type":"node","type":"Hotel","name_en":"Park Hyatt Siem Reap","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2051799868","osm_type":"node","type":"Hotel","name_en":"Sweet Dreams Guesthouse","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3294769541","osm_type":"node","type":"Hotel","name_en":"The Moon Villa & Spa","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3343177439","osm_type":"node","type":"Restaurant","name_en":"Café Indochine","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"792506877","osm_type":"node","type":"Restaurant","name_en":"Cambodian BBQ","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4281767194","osm_type":"node","type":"Restaurant","name_en":"Khmer Kitchen Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"372434804","osm_type":"way","type":"Restaurant","name_en":"Le Malraux","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1058861277","osm_type":"node","type":"Restaurant","name_en":"Molly Malone's","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"792506869","osm_type":"node","type":"Restaurant","name_en":"Red Piano Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3929905433","osm_type":"node","type":"Restaurant","name_en":"Taj Mahal Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"790702881","osm_type":"node","type":"Restaurant","name_en":"temple club","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2841140519","osm_type":"node","type":"Restaurant","name_en":"The Blue Pumpkin","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2555412323","osm_type":"node","type":"Restaurant","name_en":"The Blue Pumpkin","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"580341233","osm_type":"node","type":"Restaurant","name_en":"The Soup Dragon","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2024672672","osm_type":"node","type":"Shopping","name_en":"Angkor Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"28409110","osm_type":"way","type":"Shopping","name_en":"Angkor Night Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"19728981","osm_type":"way","type":"Shopping","name_en":"Central Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"372211993","osm_type":"way","type":"Shopping","name_en":"Lucky Mall","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4278186301","osm_type":"node","type":"Shopping","name_en":"Made In Cambodia Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"191526660","osm_type":"way","type":"Shopping","name_en":"Siem Reap Art Center Market","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1058915831","osm_type":"node","type":"Tourism","name_en":"Cambodia Mines Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"190539051","osm_type":"way","type":"Tourism","name_en":"Cambodia War Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"228054152","osm_type":"way","type":"Tourism","name_en":"Chau Srei Vibol","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4422204592","osm_type":"node","type":"Tourism","name_en":"McDermott Gallery","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4318464900","osm_type":"node","type":"Tourism","name_en":"Miniature Replicas of Angkor’s Temples","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"44877913","osm_type":"way","type":"Tourism","name_en":"Pub Street","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"6709424","osm_type":"relation","type":"Tourism","name_en":"Royal Gardens","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"372216939","osm_type":"way","type":"Tourism","name_en":"Royal Residence","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4436241272","osm_type":"node","type":"Tourism","name_en":"south gate","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"194606853","osm_type":"way","type":"Tourism","name_en":"Tep Pranam","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"5638825","osm_type":"relation","type":"Tourism","name_en":"Tonle Sap","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4110417468","osm_type":"node","type":"Tourism","name_en":"Victory Gate of the Angkor Thom","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"172870509","osm_type":"way","type":"Tourism","name_en":"Wat Bo","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"172870510","osm_type":"way","type":"Tourism","name_en":"Wat Damnak","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"279502654","osm_type":"way","type":"Tourism","name_en":"Wat Thmei","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4302905919","osm_type":"node","type":"Hotel","name_en":"Blissful Loft","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4302905947","osm_type":"node","type":"Hotel","name_en":"Crowne Plaza Changi Airport","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4302905959","osm_type":"node","type":"Hotel","name_en":"Holiday Inn Express Singapore Clarke Quay","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4302905820","osm_type":"node","type":"Hotel","name_en":"Hotel Jen Orchardgateway Singapore","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4302906136","osm_type":"node","type":"Hotel","name_en":"Pan Pacific Singapore","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4302903883","osm_type":"node","type":"Hotel","name_en":"Resorts World Sentosa - Festive Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4302906083","osm_type":"node","type":"Hotel","name_en":"Shangri - La's Rasa Sentosa Resort & Spa","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"174262780","osm_type":"way","type":"Hotel","name_en":"Somerset Liang Court Singapore","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4302906351","osm_type":"node","type":"Hotel","name_en":"The Club Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4302906141","osm_type":"node","type":"Hotel","name_en":"The Ritz - Carlton, Millenia Singapore","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4302906145","osm_type":"node","type":"Hotel","name_en":"The Southbridge Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"190945745","osm_type":"way","type":"Hotel","name_en":"The Sultan","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4302906152","osm_type":"node","type":"Hotel","name_en":"Urban Hostel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"965693389","osm_type":"node","type":"Restaurant","name_en":"Boon Tong Kee","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"154418183","osm_type":"way","type":"Restaurant","name_en":"Gordon Grill","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"372345031","osm_type":"way","type":"Restaurant","name_en":"Kashmir","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"602549219","osm_type":"node","type":"Restaurant","name_en":"Maxwell Road Hawker Centre","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"364429838","osm_type":"way","type":"Restaurant","name_en":"Rong Chen Bak Kut The","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"241260237","osm_type":"way","type":"Restaurant","name_en":"Samy's Curry Restaurant","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"47298639","osm_type":"way","type":"Restaurant","name_en":"Tian Tian Hainanese Chicken Rice","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"44414531","osm_type":"way","type":"Shopping","name_en":"Bras Basah Complex Merchants Association","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"47298646","osm_type":"way","type":"Shopping","name_en":"Chinatown Complex","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"222839478","osm_type":"way","type":"Shopping","name_en":"Citylink Mall","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"46518147","osm_type":"way","type":"Shopping","name_en":"DFS T Galleria（Singapore）","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3759861923","osm_type":"node","type":"Shopping","name_en":"Eu Yan Sang","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3759118175","osm_type":"node","type":"Shopping","name_en":"Eu Yan Sang","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3756802251","osm_type":"node","type":"Shopping","name_en":"Lim Chee Guan","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"41889999","osm_type":"way","type":"Shopping","name_en":"Orchard Central","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"260954106","osm_type":"way","type":"Shopping","name_en":"Orchard Rd","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"172518503","osm_type":"way","type":"Shopping","name_en":"Pedro（Wisma Atria）","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"46595137","osm_type":"way","type":"Shopping","name_en":"Suntec City Mall","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2298319","osm_type":"relation","type":"Shopping","name_en":"The Shoppes at Marine Bay Sands","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2353588","osm_type":"relation","type":"Shopping","name_en":"Vivo City","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"149965102","osm_type":"way","type":"Tourism","name_en":"Boat Quey","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"315753904","osm_type":"way","type":"Tourism","name_en":"Changi Museum & Chapel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"171979089","osm_type":"way","type":"Tourism","name_en":"Chinese Garden","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"49968763","osm_type":"way","type":"Tourism","name_en":"Chinese Heritage Centre","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1769151050","osm_type":"node","type":"Tourism","name_en":"Crane Dance","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"164881537","osm_type":"way","type":"Tourism","name_en":"Double Helix Bridge","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4299341989","osm_type":"node","type":"Tourism","name_en":"Double Helix Bridge","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"180101834","osm_type":"way","type":"Tourism","name_en":"Eurasian Heritage Centre","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"171142595","osm_type":"way","type":"Tourism","name_en":"Flower Dome","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"49890775","osm_type":"way","type":"Tourism","name_en":"Formula 1 Singapore Grand Prix","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3686388539","osm_type":"node","type":"Tourism","name_en":"Imbiah","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1138656193","osm_type":"node","type":"Tourism","name_en":"Mandai Orchid Gardens","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"176326990","osm_type":"way","type":"Tourism","name_en":"Masjid Abdul Gafoor","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"343746558","osm_type":"way","type":"Tourism","name_en":"Mount Faber Park","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3756807018","osm_type":"node","type":"Tourism","name_en":"Singapor Coins and Notes Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"95762799","osm_type":"way","type":"Tourism","name_en":"Singapore Chinese Chamber of Commerce","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"48045887","osm_type":"way","type":"Tourism","name_en":"Sri Krishnan Temple","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"155986465","osm_type":"way","type":"Tourism","name_en":"St. Joseph's Church","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"159477291","osm_type":"way","type":"Tourism","name_en":"Tanjong Beach","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1868203039","osm_type":"node","type":"Tourism","name_en":"Tanjong Beach","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2511053953","osm_type":"node","type":"Tourism","name_en":"Tanjong Pagar Conservation Area","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"243427705","osm_type":"way","type":"Tourism","name_en":"The Arts House","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"174286661","osm_type":"way","type":"Tourism","name_en":"Town of woodland Gardens","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4449920089","osm_type":"node","type":"Tourism","name_en":"Tokyo Imperial Palace","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4124953090","osm_type":"node","type":"Tourism","name_en":"Tokyo Sky Tree Town","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2265558113","osm_type":"node","type":"Tourism","name_en":"Ueno Park","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"5414648","osm_type":"relation","type":"Tourism","name_en":"The University of Tokyo","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2768956946","osm_type":"node","type":"Tourism","name_en":"International Library of C hildren's Literature","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"149833563","osm_type":"way","type":"Tourism","name_en":"Miraikan -- National Museum of Emerging Science and Innovation","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2273573463","osm_type":"node","type":"Tourism","name_en":"Jiyugaoka","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"290141515","osm_type":"way","type":"Tourism","name_en":"Yukikuni-kan","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4203713492","osm_type":"node","type":"Tourism","name_en":"Odaiba Megaweb","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"149192547","osm_type":"way","type":"Tourism","name_en":"Naritasan Shinshō-ji","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4400596190","osm_type":"node","type":"Tourism","name_en":"Tokyometropolitan Theatre","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"145394369","osm_type":"way","type":"Tourism","name_en":"Marunouchi-Nakadori Building","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"167055431","osm_type":"way","type":"Tourism","name_en":"Tokyo Trick Art Museum","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"475090904","osm_type":"node","type":"Hotel","name_en":"Shinjuku Prince Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"138522509","osm_type":"way","type":"Hotel","name_en":"Hotel Sunroute Plaza Shinjuku","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3623054193","osm_type":"node","type":"Hotel","name_en":"Hotel Gracery Shinjuku","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"321575117","osm_type":"way","type":"Hotel","name_en":"Hotel Nikko Narita","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"44776139","osm_type":"way","type":"Hotel","name_en":"Asakusa View Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"582347970","osm_type":"node","type":"Hotel","name_en":"InterContinental ANA Tokyo","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1494149076","osm_type":"node","type":"Hotel","name_en":"The Capitol Hotel Tokyu","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"228162155","osm_type":"way","type":"Hotel","name_en":"Toyoko Inn Tokyo Nihon-bashi","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"171848774","osm_type":"way","type":"Hotel","name_en":"Keio Presso Inn Kayabacho","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3558591847","osm_type":"node","type":"Hotel","name_en":"Hotel Villa Fontaine Roppongi","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"170415674","osm_type":"way","type":"Hotel","name_en":"Parkside Tokyo Hotel","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"393307193","osm_type":"way","type":"Hotel","name_en":"APA Hotel Ningyocho Ekikiita","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2405013092","osm_type":"node","type":"Restaurant","name_en":"Udon Maruka","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3163200072","osm_type":"node","type":"Restaurant","name_en":"Yakiniku Fufutei (Ikebukuro Higashiguchi Ekimae Ten)","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3411746404","osm_type":"node","type":"Restaurant","name_en":"Ningyocho Imahan","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2212617866","osm_type":"node","type":"Restaurant","name_en":"Onyasai (Shinjku Higashiguchi Ekimae Ten)","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3340683544","osm_type":"node","type":"Restaurant","name_en":"Onyasai (Shinjku Higashiguchi Ekimae Ten)","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3397737048","osm_type":"node","type":"Restaurant","name_en":"Onyasai (Shinjku Higashiguchi Ekimae Ten)","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"688657370","osm_type":"node","type":"Restaurant","name_en":"Kanda Yabu Soba","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"3163200072","osm_type":"node","type":"Restaurant","name_en":"Yakiniku Karubichan (Shinjuku Ten)","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1138633140","osm_type":"node","type":"Restaurant","name_en":"Kamiya Bar","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2883449855","osm_type":"node","type":"Restaurant","name_en":"Yabaton","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"219645624","osm_type":"way","type":"Restaurant","name_en":"China Room","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"162139696","osm_type":"way","type":"Shopping","name_en":"IDC OTSUKA","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1377643958","osm_type":"node","type":"Shopping","name_en":"Bic camera","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"2291210698","osm_type":"node","type":"Shopping","name_en":"Bic camera","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4072637112","osm_type":"node","type":"Shopping","name_en":"Bic camera","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"116710254","osm_type":"way","type":"Shopping","name_en":"Bic camera","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"182534373","osm_type":"way","type":"Shopping","name_en":"Bic camera","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4413487289","osm_type":"node","type":"Shopping","name_en":"TOY PARK","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"1968421045","osm_type":"node","type":"Shopping","name_en":"Mitsukoshi","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4480953693","osm_type":"node","type":"Shopping","name_en":"Nakamise-dori Street","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"727069690","osm_type":"node","type":"Shopping","name_en":"uniqlo","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"145407027","osm_type":"way","type":"Shopping","name_en":"First Avenue Takyo Station","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"4413487289","osm_type":"node","type":"Shopping","name_en":"Hakuhinkan","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"703687902","osm_type":"node","type":"Shopping","name_en":"Don Quijote","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"338877811","osm_type":"node","type":"Shopping","name_en":"Daiso","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+,
+{"osm_id":"990952288","osm_type":"node","type":"Shopping","name_en":"AzabuJuban","lon":"","lat":"","name":"","name:zh":"","wikidata":"","wikipedia":""}
+]
