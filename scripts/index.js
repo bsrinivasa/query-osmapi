@@ -56,7 +56,7 @@ function fetchLocation(row, callback) {
     request(url, function(err, response) {
         if (err) throw err;
 
-        var lat, lon,name,name_zh,wikidata,wikipedia;
+        var lat, lon, name, name_en, name_zh, wikidata, wikipedia;
         
         var geojson = JSON.parse(response.body);
         
@@ -68,6 +68,7 @@ function fetchLocation(row, callback) {
         }
 
         name = geojson.properties['name'];
+        name_en = geojson.properties['name:en'];
         name_zh = geojson.properties['name:zh'];
         wikidata = geojson.properties['wikidata'];
         wikipedia = getWikipediaLink(geojson.properties);
