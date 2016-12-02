@@ -70,7 +70,8 @@ function fetchLocation(row, callback) {
         name = geojson.properties['name'];
         name_zh = geojson.properties['name:zh'];
         wikidata = geojson.properties['wikidata'];
-        wikipedia = geojson.properties['wikipedia'];
+        wikipedia = getWikipediaLink(geojson.properties);
+        // wikipedia = geojson.properties['wikipedia'];
         
 
         if (osm.type === 'node') {
@@ -101,4 +102,20 @@ function fetchLocation(row, callback) {
 
         return callback(null, row);
     });
+}
+
+function getWikipediaLink(props) {
+    if (props.hasOwnProperty('wikipedia')) {
+        return props.wikipedia;
+    } else if (props.hasOwnProperty('wikipedia:en')) {
+        return props['wikipedia:en'];
+    } else {
+        var val = '';
+        Object.keys(props).forEach(function(key) {
+            if (key.indexOf('wikipedia') !== -1) {
+                val = props[key];
+            }
+        });
+        return val;
+    }
 }
